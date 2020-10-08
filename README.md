@@ -20,13 +20,13 @@ Assignment Instructions
       Example: If A is "ACC", B is "CAT" and C is "GAT", then the distance between A and B is 3 (all characters are different), 
       the distance between A and C is also 3 and the distance between B and C is 1 (because only the first character is different).
       
-    Third, The next step is to use the genetic distance matrix (Links to an external site.)
-      In our case, we only have three different DNA sequences, so there can only be four different trees. 
-      We can determine the correct tree by finding the two out of these three species that are the most similar, 
-      so the two DNA sequences whose genetic distance is the smallest, the third sequence must therefore have an earlier common ancestor. 
-      As a special case, it is also possible that two or more distances are tied. In each of these cases, print an according message.
+   Third, The next step is to use the genetic distance matrix (Links to an external site.)
+     In our case, we only have three different DNA sequences, so there can only be four different trees. 
+     We can determine the correct tree by finding the two out of these three species that are the most similar, 
+     so the two DNA sequences whose genetic distance is the smallest, the third sequence must therefore have an earlier common ancestor. 
+     As a special case, it is also possible that two or more distances are tied. In each of these cases, print an according message.
       
-     Example Interaction
+    Example Interaction
      > DNA Sequence A:
       < GGACCT
      > DNA Sequence B:
