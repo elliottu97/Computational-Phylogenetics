@@ -1,5 +1,6 @@
 # Computational-Phylogenetics
 Basic genetic distance calculator, can determine between three equal length "strings of DNA" (using A, C, G, &amp; T) which two have the most recent common ancestor. Uses for loop, len function, and hamming distance.
+
 Assignment Instructions
   First, the user needs to enter three different strings which correspond to three different DNA sequences A, B and C. 
     You should ensure that the entered strings are actually valid DNA sequences.
